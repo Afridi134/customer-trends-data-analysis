@@ -8,17 +8,17 @@ The goal of this project is to showcase practical data analytics skills used in 
 
 ## Tools & Technologies
 
-Python – Data loading, EDA, and data cleaning (Pandas, NumPy, Matplotlib/Seaborn)
+- Python – Data loading, EDA, and data cleaning (Pandas, NumPy, Matplotlib/Seaborn)
 
-MySQL Server – SQL queries and data analysis
+- MySQL Server – SQL queries and data analysis
 
-Power BI – Dashboard and data visualization
+- Power BI – Dashboard and data visualization
 
-Jupyter Notebook – Python development environment
+- Jupyter Notebook – Python development environment
 
-Microsoft Excel – Initial data inspection
+- Microsoft Excel – Initial data inspection
 
-PowerPoint – Business presentation
+- PowerPoint – Business presentation
 
 GitHub – Version control and project sharing
 
@@ -26,60 +26,60 @@ GitHub – Version control and project sharing
 
 ### 1. Data Loading
 
-Imported dataset into Python using Pandas
+- Imported dataset into Python using Pandas
 
-Checked structure, columns, and data types
+- Checked structure, columns, and data types
 
 ### 2. Exploratory Data Analysis (EDA)
 
-Analyzed distributions, missing values, and outliers
+- Analyzed distributions, missing values, and outliers
 
-Identified patterns and relationships between variables
+- Identified patterns and relationships between variables
 
-Generated summary statistics and visualizations
+- Generated summary statistics and visualizations
 
 ### 3. Data Cleaning
 
-Handled missing values
+- Handled missing values
 
-Fixed data types
+- Fixed data types
 
-Standardized column names and formats
+- Standardized column names and formats
 
 ### 4. SQL Analysis
 
-Imported cleaned data into MySQL
+- Imported cleaned data into MySQL
 
-Wrote SQL queries to:
+- Wrote SQL queries to:
 
-Analyze trends
+- Analyze trends
 
-Segment customers
+- Segment customers
 
-Calculate KPIs
+- Calculate KPIs
 
-Answer key business questions
+- Answer key business questions
 
 ### 5. Power BI Dashboard
 
-Connected Power BI to MySQL database
+- Connected Power BI to MySQL database
 
-Built interactive dashboards including:
+- Built interactive dashboards including:
 
-Trend charts
+- Trend charts
 
-Category breakdowns
+- Category breakdowns
 
-Filters and slicers for dynamic analysis
+- Filters and slicers for dynamic analysis
 
 ### 6. Report & Presentation
 
-Created a detailed analysis report with insights and recommendations
+- Created a detailed analysis report with insights and recommendations
 
-Designed a PowerPoint presentation summarizing:
+- Designed a PowerPoint presentation summarizing:
 
-Problem statement
+- Problem statement
 
-Key findings
+- Key findings
 
 - Business impact
