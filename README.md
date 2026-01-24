@@ -1,4 +1,4 @@
-# customer-trends-data-analysis
+# customer-behaviour-data-analysis
 
 ## Overview
 
