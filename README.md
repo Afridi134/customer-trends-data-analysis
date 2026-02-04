@@ -57,10 +57,10 @@ GitHub – Version control and project sharing
   - Category breakdowns
   - Filters and slicers for dynamic analysis
   
-### 6. Report & Presentation
+### 6. Report
 
 - Created a detailed analysis report with insights and recommendations
-- Designed a PowerPoint presentation summarizing:
+- Designed a report summarizing:
   - Problem statement
   - Key findings
   - Business impact
